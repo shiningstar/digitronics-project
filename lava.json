@@ -1,0 +1,28 @@
+{"data":
+[
+{"SN":1, "Models":"ARC 11+", "Specification":"", "Best Price":"1899", "Market Price":"2099"},
+{"SN":2, "Models":"ARC 1+", "Specification":"", "Best Price":"2000", "Market Price":"2149"},
+{"SN":3, "Models":"ARC 9i", "Specification":"", "Best Price":"2825", "Market Price":"2999"},
+{"SN":4, "Models":"ARC 12", "Specification":"", "Best Price":"2375", "Market Price":"2899"},
+{"SN":5, "Models":"KKT 10", "Specification":"", "Best Price":"2099", "Market Price":"2299"},
+{"SN":6, "Models":"KKT 14", "Specification":"", "Best Price":"2399", "Market Price":"2629"},
+{"SN":7, "Models":"KKT 21", "Specification":"", "Best Price":"2525", "Market Price":"2769"},
+{"SN":8, "Models":"KKT 27", "Specification":"", "Best Price":"3050", "Market Price":"3299"},
+{"SN":9, "Models":"KKT 35+", "Specification":"", "Best Price":"2775", "Market Price":"3049"},
+{"SN":10, "Models":"KKT 40s", "Specification":"", "Best Price":"3345", "Market Price":"3619"},
+{"SN":11, "Models":"SPARK 247 (NEW)", "Specification":"", "Best Price":"2725", "Market Price":"2899"},
+{"SN":12, "Models":"SPARK 285 (NEW)", "Specification":"", "Best Price":"3299", "Market Price":"3499"},
+{"SN":13, "Models":"SPARK 245", "Specification":"", "Best Price":"2850", "Market Price":"3099"},
+{"SN":14, "Models":"D 135", "Specification":"", "Best Price":"4750", "Market Price":"5199"},
+{"SN":15, "Models":"D 136", "Specification":"", "Best Price":"4750", "Market Price":"5199"},
+{"SN":16, "Models":"IRIS 349s", "Specification":"", "Best Price":"5550", "Market Price":"6199"},
+{"SN":17, "Models":"IRIS 404e", "Specification":"", "Best Price":"7475", "Market Price":"7999"},
+{"SN":18, "Models":"IRIS 402-3G", "Specification":"", "Best Price":"9275", "Market Price":"9999"},
+{"SN":19, "Models":"IRIS 405+", "Specification":"", "Best Price":"9625", "Market Price":"10499"},
+{"SN":20, "Models":"IRIS 503e", "Specification":"", "Best Price":"10735", "Market Price":"11999"},
+{"SN":21, "Models":"IRIS 503", "Specification":"", "Best Price":"13450", "Market Price":"14599"},
+{"SN":22, "Models":"IRIS 455", "Specification":"", "Best Price":"14625", "Market Price":"15979"},
+{"SN":23, "Models":"IRIS 504Q", "Specification":"", "Best Price":"23799", "Market Price":"24899"},
+{"SN":24, "Models":"W-200Router", "Specification":"", "Best Price":"3399", "Market Price":"3699"}
+]
+}
